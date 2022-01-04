@@ -1,4 +1,4 @@
-module github.com/HanShuai/hello
+module github.com/Hs88888/hello
 
 go 1.15
 
